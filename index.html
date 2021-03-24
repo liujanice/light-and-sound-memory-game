@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Hello!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <h1>🎶 Music Box: The Light and Sound Memory Game</h1>
+
+    <p>
+      🤔 Looking to sharpen your memory? <br /><br />
+
+      ⚡️Repeat the pattern back by pressing the respective buttons!
+    </p>
+
+    <button id="startBtn" onclick="startGame()">
+      Start
+    </button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">
+      Stop
+    </button>
+
+    <div id="gameButtonArea">
+      <button
+        id="button1"
+        onclick="guess(1)"
+        onmousedown="startTone(1)"
+        onmouseup="stopTone()"
+      ></button>
+      <button
+        id="button2"
+        onclick="guess(2)"
+        onmousedown="startTone(2)"
+        onmouseup="stopTone()"
+      ></button>
+      <button
+        id="button3"
+        onclick="guess(3)"
+        onmousedown="startTone(3)"
+        onmouseup="stopTone()"
+      ></button>
+      <button
+        id="button4"
+        onclick="guess(4)"
+        onmousedown="startTone(4)"
+        onmouseup="stopTone()"
+      ></button>
+    </div>
+
+    <div id="instructDialog">
+      <button id="info" onclick="displayInstruct()">
+        <b>Game Instructions</b>
+      </button>
+      <button id="infoDialog" class="hidden" onclick="closeInstruct()">
+        <ul>
+          <li>
+            ⚡️ Objective: Repeat the pattern back by pressing the respective
+            buttons in the correct order until the accumulating eight-sequence
+            pattern is complete!
+          </li>
+          <li>
+            ⚡️ At each turn until eight turns, the computer will add a new button
+            to the pattern that you know so far by highlighting it.
+          </li>
+          <li>
+            ⚡️ Press the buttons in the order of the pattern given to you up
+            until that turn and the new button in the pattern in that current
+            turn.
+          </li>
+          <li>
+            ⚡️ Make a mistake before the sequence is complete? You will lose!
+          </li>
+
+          <li>⚡️ Click the Stop button to halt the game at anytime.</li>
+        </ul>
+      </button>
+    </div>
+
+    <p style="color:#FEF6EB">
+      Made with Sincerity by Janice Liu, UC Berkeley 🐻
+    </p>
+  </body>
+</html>
