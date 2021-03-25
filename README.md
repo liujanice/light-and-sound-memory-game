@@ -39,12 +39,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 **Game Over: WIN**
 ![player wins video walkthrough)](https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerwins.gif)
-<br \>
+\
 **Game Over: LOSE**
 ![player loses video walkthrough](https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerloses.gif)
-<br \>
+\
 **Game Instructions**
 ![game info video walkthrough](https://github.com/liujanice/light-and-sound-memory-game/blob/main/gameinstructions.gif)
 
@@ -57,7 +58,7 @@ Here's a walkthrough of implemented user stories:
   \StackOverFlow
   For markdown formatting issues
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)\
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
    One of the features I added was a button to display game play, or the game instrcutions, since the game isn't entirely intuitive once you go on the website.
    In my game instructions dialog, my list of instructions initially where not left-aligned. I thought that I could left-align the text
