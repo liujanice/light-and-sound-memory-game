@@ -41,10 +41,15 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 Game Over: WIN
 ![](<img src='https://cdn.glitch.com/639e4624-cbc7-4f7d-8d14-c597e5f39951%2Fplayerwins.gif?v=1616629695087' title="player wins" alt='player wins video walkthrough'/>)
+
+![]('https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerwins.gif')
 Game Over: LOSE
 ![]('playerloses.gif')
+![]('https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerloses.gif')
 ![](<img src='playerloses.gif' title="player loses" alt='player loses video walkthrough'/>)
 Game Instructions
+
+![]('https://github.com/liujanice/light-and-sound-memory-game/blob/main/gameinstructions.gif')
 ![](<img src='gameinstructions.gif' title="display game instructions" alt='game info video walkthrough'/>)
 
 ## Reflection Questions
