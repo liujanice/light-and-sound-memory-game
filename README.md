@@ -39,14 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Game Over: WIN
+\Game Over: WIN
 ![player wins video walkthrough)](https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerwins.gif)
-Game Over: LOSE
-![](playerloses.gif)
+\Game Over: LOSE
 ![player loses video walkthrough](https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerloses.gif)
-
-Game Instructions
-
+\Game Instructions
 ![game info video walkthrough](https://github.com/liujanice/light-and-sound-memory-game/blob/main/gameinstructions.gif)
 
 ## Reflection Questions
@@ -55,6 +52,8 @@ Game Instructions
 
 - https://www.w3schools.com/
   \I referred to the HTML, CSS, and JavaScript sections.
+  \StackOverFlow
+  For markdown formatting issues
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)\
 
