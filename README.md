@@ -45,7 +45,7 @@ Game Over: WIN
 ![]('https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerwins.gif')
 Game Over: LOSE
 ![]('playerloses.gif')
-![]('https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerloses.gif')
+![this should work]('https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerloses.gif')
 ![](<img src='playerloses.gif' title="player loses" alt='player loses video walkthrough'/>)
 Game Instructions
 
