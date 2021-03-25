@@ -39,11 +39,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-\Game Over: WIN
+**Game Over: WIN**
 ![player wins video walkthrough)](https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerwins.gif)
-\Game Over: LOSE
+<br \>
+**Game Over: LOSE**
 ![player loses video walkthrough](https://github.com/liujanice/light-and-sound-memory-game/blob/main/playerloses.gif)
-\Game Instructions
+<br \>
+**Game Instructions**
 ![game info video walkthrough](https://github.com/liujanice/light-and-sound-memory-game/blob/main/gameinstructions.gif)
 
 ## Reflection Questions
