@@ -49,12 +49,12 @@ Game Instructions
 
 ## Reflection Questions
 
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.\
 
-- https://www.w3schools.com/
+- https://www.w3schools.com/\
   I referred to the HTML, CSS, and JavaScript sections.
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)\
 
    One of the features I added was a button to display game play, or the game instrcutions, since the game isn't entirely intuitive once you go on the website.
    In my game instructions dialog, my list of instructions initially where not left-aligned. I thought that I could left-align the text
@@ -63,12 +63,12 @@ Game Instructions
    I found a minor bug when I tested my code in the console. While going through the tutorial, I accidently declared a global variable twice: once in the beginning and again in a function.
    I would not have identified this error if I hadn't narrowed down where this error was occuring from independently testing each step in the code. Minor errors may be overlooked, but sometimes they are the main cause of bigger errors in yor code, which is why I prioritize testing my code frequently!
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)\
    In this brief project, I learned primarily about the front-end of web applications. This is the most JavaScript that I've used in any coding project that I've done so far. I found it very fun to implement, and
    I would like to dive deeper into web developement technologies and possibly explore the back-end of implementing websites. Since quality-testing applications is something I value doing, I wonder what other ways
    web developers test their applications other than through printing their `console.log()` statements when testing JavaScript. I wonder if they write unit tests, I wonder what are the most challenging aspects of web development that web developers run into often.
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)\
    If I had a few more hours to work on this project, I would work on making the game more complex to better test a user's memory and stimulate their brain by helping them focus on small details and increase their attention. I've actually played the memory screening test by the Alzheimer’s Foundation of America, and I think this game could be a more casual version of that. I would add at least 2 more difficulty levels, with the
    current version of this game acting as Level One, or the Easy Level. On the medium-level of difficulty, I would add a fifth button and extend the sequence to be a pattern of 10 buttons.
    On the final level of difficulty, or the most difficult level, I would keep the fifth button, but the pattern would be eight steps. To test out a player's attentiveness to detail, I'm hoping to add similar images to each of the five buttons to see if the player can remember the order of the pattern if the images are a bit harder to distinguish from each other.
