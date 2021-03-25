@@ -51,8 +51,8 @@ Game Instructions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.\
 
-- https://www.w3schools.com/\
-  I referred to the HTML, CSS, and JavaScript sections.
+- https://www.w3schools.com/
+  \I referred to the HTML, CSS, and JavaScript sections.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)\
 
